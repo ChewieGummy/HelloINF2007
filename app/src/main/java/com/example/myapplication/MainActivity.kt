@@ -63,7 +63,7 @@ fun From(name: String, modifier: Modifier = Modifier){
 @Composable
 fun GreetingPreview() {
     MyApplicationTheme {
-        Greeting("INF2007!")
+        Greeting("INF2007")
         From("Elon Musk")
     }
 }
